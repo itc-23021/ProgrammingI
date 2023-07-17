@@ -1,6 +1,6 @@
 import random
 
-numbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
+numbers = "0123456789"
 sample4 = random.sample(numbers, k=4)
 num4 = "".join(sample4)
 while True:
