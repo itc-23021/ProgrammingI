@@ -1,5 +1,7 @@
-def fib(n):
-    a, b = 0.1
-    while a < n:
-        print(a, end=" ")
-        a, b = b, a + b
+many _numbers-list(range(100))
+s=''
+for i in many_numbers:
+s+="[:2d],".format(i)
+if i %10 ==9:
+s+="\n"
+print(s)
