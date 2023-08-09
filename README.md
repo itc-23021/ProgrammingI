@@ -41,8 +41,8 @@
 - 4.9 コーディングスタイル[[問題１]](chapter04/Q4_9_1.py)[[問題２]](chapter04/Q4_9_2.py)
 [[九九]](chapter04/kuku.py)
 ### 第5章　データ構造
-- 5.1 リストのメソッド[[問題１]](chapter05/Q5_1_1.py)[[問題２]](chapter05/Q5_1_2.py)
-- 5.2 リスト内包表記[[問題１]](chapter05/Q5_2_1.py)[[問題２]](chapter05/Q5_2_2.py)
+- 5.1 リストのメソッド[[問題１]](chapter05/Q5_1_1.py)[[問題２]](chapter05/Q5_1_2.py)[[問題３]](chapter05/Q5_1_3.py)
+- 5.2 リスト内包表記[[問題１]](chapter05/Q5_2_1.py)[[問題２]](chapter05/Q5_2_2.py)[[問題３]](chapter05/Q5_2_3.py)
 - 5.3 del を使った削除[[問題１]](chapter05/Q5_3_1.py)[[問題２]](chapter05/Q5_3_2.py)
 - 5.4 タプル[[問題１]](chapter05/Q5_4_1.py)[[問題２]](chapter05/Q5_4_2.py)
 - 5.5 集合（set）[[問題１]](chapter05/Q5_5_1.py)[[問題２]](chapter05/Q5_5_2.py)
